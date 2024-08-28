@@ -21,3 +21,6 @@ var car = {
 			}
 		};
 		console.log('hello there friend!');
+var sayMyName = function (name){
+	alert('My name is : '+ name);
+}
